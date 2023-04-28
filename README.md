@@ -1,0 +1,1 @@
+This is instruction for new-project repo
